@@ -1,7 +1,7 @@
 const Discord = require('discord.js')
 const client = new Discord.Client();
 
-client.login("process.env.BOT_TOKEN");
+client.login("Njg1NTI1ODg0MzYyNjg2NDg0.Xm3Kxw._pVzEekNZZ8mHX_DAw8xHA9A178");
 
 var prefix = (E!);
 
