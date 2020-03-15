@@ -3,7 +3,7 @@ const client = new Discord.Client();
 
 client.login("Njg1NTI1ODg0MzYyNjg2NDg0.Xm3Kxw._pVzEekNZZ8mHX_DAw8xHA9A178");
 
-var prefix = (E!);
+var prefix = ("E!");
 
 client.on("message", (message) => {
 	if (message.content === "yo") {
