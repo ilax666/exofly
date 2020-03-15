@@ -9,7 +9,7 @@ client.on("message", (message) => {
 	if (message.content === "yo") {
 		message.channel.send("Salutation mon cher")
 	}
-	if message.content === prefix + "help"){
+	if (message.content === prefix + "help"){
 		message.channel.send("Bot en dev créé par `failed to load name` prefix E!")
 	}
 
