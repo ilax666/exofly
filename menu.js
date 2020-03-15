@@ -1,9 +1,9 @@
 const Discord = require('discord.js')
 const client = new Discord.Client();
 
-client.login("gjfjf");
+client.login("process.env.BOT_TOKEN");
 
-var prefix = (process.env.TOKEN);
+var prefix = (E!);
 
 client.on("message", (message) => {
 	if (message.content === "yo") {
