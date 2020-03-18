@@ -1,2 +1,2 @@
-worker: npm install discord.js
+worker: npm install --save discord.js
 worker: node menu.js
